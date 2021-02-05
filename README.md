@@ -1,5 +1,3 @@
 # sacet
-#ann's college
-hi
-i am srav
-mca
+# ann's college
+#start
