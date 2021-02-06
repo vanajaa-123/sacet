@@ -18,10 +18,11 @@ SNO | Name | college
 1|gopi sir|sacet
 2|srinivas reddysir|sacet
 :smile:
-
+<hr>
 
 how to initialize github project
 - [_]git  add .
 - [_]git remote
 - [_]git push
 - [*]git init
+<hr>
