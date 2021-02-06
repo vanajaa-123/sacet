@@ -21,6 +21,7 @@ SNO | Name | college
 
 
 how to initialize github project
--[_]git  add .
--[_]git remote
--[_]git push
+- [_]git  add .
+- [_]git remote
+- [_]git push
+- [*]git init
